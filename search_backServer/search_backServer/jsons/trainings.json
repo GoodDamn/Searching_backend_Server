@@ -1,0 +1,37 @@
+[{
+  "Desc" : "Что-то там\nпро СПОКойствие",
+  "ImageM" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Evass%2F3.png?alt=media&token=2c8e7534-c8213-472e-8d10-2d11fe1cc83c",
+  "Name" : "Успокоение",
+  "Phrases" : [ null, "1-ая фраза", "2-ая фраза", "3-я фраза" ]
+}, {
+  "Desc" : "Убери весь лишний\nсахар из своей жизни",
+  "ImageM" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Easdages%2F2.png?alt=media&token=2fa7204f-2523-4ffa-830a-f25f67235d36",
+  "Name" : "Избавься\nот сладкого",
+  "Phrases" : [ null, "1-ая фраза", "2-ая фраза", "3-ья фраза", "4-ая фраза" ]
+}, {
+  "Desc" : "Найди силы и желание\nк саморазвитию",
+  "ImageB" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Traasdgs%2F3%2Fb_3.png?alt=media&token=25b41337-81246-4203-bba9-54c3a5b0c5c6",
+  "ImageM" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Tasdnings%2F3%2Fm_3.png?alt=media&token=4755cd6a-412451-4c10-9ee2-12da23d0b639",
+  "Name" : "Поиск\nмотивации",
+  "Phrases" : [ null, "1-ая фраза" ]
+}, {
+  "Desc" : "Убери весь лишний\nсахар из своей жизни",
+  "ImageM" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Evsdsds%2F4.png?alt=media&token=f6c52333-423401-4235c-b709-9f004c8f7007",
+  "Name" : "Избавься\nот сладкого",
+  "Phrases" : [ null, "1-ая фраза" ]
+}, {
+  "Desc" : "Тренировка для теста",
+  "ImageM" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Evasdas%2F4.png?alt=media&token=f6c52524133-4f01",
+  "Name" : "5-ая тренировка",
+  "Phrases" : [ null, 123 ]
+}, {
+  "Desc" : "Когда у тебя скоро ЕГЭ",
+  "ImageM" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Eveasda%2F3.png?alt=media&token=2c8e512354-c23452140-472e-8d10-2d11fe1cc83c",
+  "Name" : "Экзамены",
+  "Phrases" : [ null, "ahfpf" ]
+}, {
+  "Desc" : "Заряд вдохновения на весь день\nдля хорошего настроения",
+  "ImageB" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Trasd%2F7%2Fb_7.png?alt=media&token=075f1b33-32123402-43a3-8bd5-663fc07479fc",
+  "ImageM" : "https://firebasestorage.googleapis.com/v0/b/spok-relax-app.appspot.com/o/Trasd%2F7%2Fm_7.png?alt=media&token=8cfac948-123451-458f-8dc6-f96da93eaabd",
+  "Name" : "Утро\nначинается"
+} ]
